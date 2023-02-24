@@ -81,5 +81,4 @@ Romain#0614.
 
 
 Pour me soutenir dans le développement du logiciel :
-
 https://paypal.me/Romainfer62?country.x=FR&locale.x=fr_FR
