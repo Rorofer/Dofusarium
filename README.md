@@ -74,9 +74,12 @@ Un conseil : gardez le restant en banque jusqu'à ce que le prix remonte
 "
 (ça vous met en mémoire ce que le logiciel a dit afin que vous puissiez le 
 retrouver)
+
+
 Si vous avez des bugs à faire remonter, contactez moi via discord :
 Romain#0614.
 
 
 Pour me soutenir dans le développement du logiciel :
+
 https://paypal.me/Romainfer62?country.x=FR&locale.x=fr_FR
