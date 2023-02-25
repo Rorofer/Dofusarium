@@ -85,7 +85,7 @@ Pour me soutenir dans le développement du logiciel :
 https://paypal.me/Romainfer62?country.x=FR&locale.x=fr_FR
 
 
-## UPDATE :
+### UPDATE :
 
 Nouvelle option disponible :
 - Une option permettant d'avoir la liste de tous les types de dragodindes, leur génération (de 1 à 10) les parents qu'il faut pour les obtenir par fécondation ainsi que le type de parchemin qu'elles apportent lorsque l'on les échange au PNJ. A cette option s'ajoutent plusieurs systèmes de tri : par ID (ordre croissant ou décroissant), par génération (ordre croissant ou décroissant également), par ordre alphabétique (a à z ou z à a) selon son type, son parent numéro 1 ou parent numéro 2 ainsi que pour le type de parchemin obtenu. 
