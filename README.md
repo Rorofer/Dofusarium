@@ -11,6 +11,7 @@ le .txt))
 - Calculer le prix de revente des items par 1, 10 et 100 en fonction du 
 prix unitaire payé d'un item toujours en prenant en compte la taxe en 
 HDV.
+
 ## EXEMPLES
 ### Exemple de l'option n°1 :
 Nous souhaitons crafter une potion de bonta. Pour cela, il nous faut 1 
@@ -82,3 +83,9 @@ Romain#0614.
 
 Pour me soutenir dans le développement du logiciel :
 https://paypal.me/Romainfer62?country.x=FR&locale.x=fr_FR
+
+
+UPDATE :
+
+Nouvelle option disponible :
+- Une option permettant d'avoir la liste de tous les types de dragodindes, leur génération (de 1 à 10) les parents qu'il faut pour les obtenir par fécondation ainsi que le type de parchemin qu'elles apportent lorsque l'on les échange au PNJ. A cette option s'ajoutent plusieurs systèmes de tri : par ID (ordre croissant ou décroissant), par génération (ordre croissant ou décroissant également), par ordre alphabétique (a à z ou z à a) selon son type, son parent numéro 1 ou parent numéro 2 ainsi que pour le type de parchemin obtenu. 
